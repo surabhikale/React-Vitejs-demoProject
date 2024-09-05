@@ -7,8 +7,8 @@ import Working from './sections/Working';
 import Testito from './sections/Testito';
 import Contact from './sections/Contact';
 import Footer from './sections/Footer';
-import Header from './sections/header';
-import Hero from './sections/hero';
+import Header from './sections/Header';
+import Hero from './sections/Hero';
 function App() {
   return (
     <>
