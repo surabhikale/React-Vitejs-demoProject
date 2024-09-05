@@ -1,5 +1,5 @@
 import React from 'react';
-import Hero from './sections/hero';
+
 import About from './sections/About';
 import Searvice from './sections/Serviecs';
 import Portfolio from './sections/Portfolio';
@@ -8,7 +8,7 @@ import Testito from './sections/Testito';
 import Contact from './sections/Contact';
 import Footer from './sections/Footer';
 import Header from './sections/header';
-
+import Hero from './sections/hero';
 function App() {
   return (
     <>
